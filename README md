@@ -1,0 +1,16 @@
+# Data and Airtime VTU Application
+
+## Overview
+This project is a full-stack application that allows users to:
+- Register and log in.
+- Fund a wallet.
+- Purchase mobile data and airtime.
+- View transaction history.
+
+## Tech Stack
+- Frontend: React.js
+- Backend: Node.js with Express.js
+- Database: MongoDB
+- Authentication: JWT
+- Payment Gateway: Paystack
+- VTU API: VTpass or Reloadly
